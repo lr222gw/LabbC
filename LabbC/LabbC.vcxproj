@@ -21,6 +21,11 @@
   <ItemGroup>
     <ClInclude Include="IQueue.h" />
     <ClInclude Include="Queue.h" />
+    <ClInclude Include="Test.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source.cpp" />
+    <ClCompile Include="Test.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{804B8FD0-BCD7-4E2B-A4A7-FD19ED0295CE}</ProjectGuid>
